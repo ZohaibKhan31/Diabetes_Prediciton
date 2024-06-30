@@ -1,7 +1,6 @@
 # Diabetes_Prediciton_Using_ML
-These are the algorithms used:
-
-Support Vector Machine (SVM),
-K-Nearest Neighbor (KNN),
-Logistic Regression,
-Random Forest,
+It involves exploratory data analysis (EDA) using numpy,pandas, matplotlib, and seaborn.
+Techniques Used:-
+Data Cleaning
+Data Visualization
+Machine Learning Modeling
